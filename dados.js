@@ -5,7 +5,7 @@ let dados = [
       cuidados: 'Requer cuidados especiais com a alimentação e o manuseio devido ao seu tamanho mini.',
       personalidade: 'Dócil, curiosa e ativa.',
       link: 'https://en.wikipedia.org/wiki/Netherland_Dwarf_rabbit',
-      imagem: 'img/netherland.png'
+      imagem: 'https://devmichele.github.io/pesq_coelhos/img/netherland.png'
     },
     {
       titulo: 'Mini Rex',
