@@ -13,7 +13,7 @@ let dados = [
       cuidados: 'Requer escovação regular para manter a pelagem bonita.',
       personalidade: 'Curioso e brincalhão.',
       link: 'https://en.wikipedia.org/wiki/Rex_rabbit',
-      imagem: 'img/minirex.png'
+      imagem: 'https://devmichele.github.io/pesq_coelhos/img/minirex.png'
     },
     {
       titulo: 'Mini Lop',
