@@ -5,7 +5,7 @@ let dados = [
       cuidados: 'Requer cuidados especiais com a alimentação e o manuseio devido ao seu tamanho mini.',
       personalidade: 'Dócil, curiosa e ativa.',
       link: 'https://en.wikipedia.org/wiki/Netherland_Dwarf_rabbit',
-      imagem: 'https://devmichele.github.io/pesq_coelhos/img/netherland.png'
+      imagem: 'img/netherland.PNG'
     },
     {
       titulo: 'Mini Rex',
@@ -13,7 +13,7 @@ let dados = [
       cuidados: 'Requer escovação regular para manter a pelagem bonita.',
       personalidade: 'Curioso e brincalhão.',
       link: 'https://en.wikipedia.org/wiki/Rex_rabbit',
-      imagem: 'https://devmichele.github.io/pesq_coelhos/img/minirex.png'
+      imagem: 'img/minirex.png'
     },
     {
       titulo: 'Mini Lop',
