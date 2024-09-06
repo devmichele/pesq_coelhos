@@ -13,7 +13,7 @@ let dados = [
       cuidados: 'Requer escovação regular para manter a pelagem bonita.',
       personalidade: 'Curioso e brincalhão.',
       link: 'https://en.wikipedia.org/wiki/Rex_rabbit',
-      imagem: 'img/minirex.png'
+      imagem: 'img/minirex.PNG'
     },
     {
       titulo: 'Mini Lop',
@@ -21,7 +21,7 @@ let dados = [
       cuidados: 'Requer atenção especial com as orelhas para evitar infecções.',
       personalidade: 'Calmo e dócil.',
       link: 'https://en.wikipedia.org/wiki/Mini_Lop',
-      imagem: 'img/minilop.png'
+      imagem: 'img/minilop.PNG'
     },
     {
       titulo: 'Holland Lop',
@@ -29,7 +29,7 @@ let dados = [
       cuidados: 'Necessita de uma dieta balanceada para evitar obesidade.',
       personalidade: 'Ativo e brincalhão.',
       link: 'https://en.wikipedia.org/wiki/Holland_Lop',
-      imagem: 'img/hollandlop.png'
+      imagem: 'img/hollandlop.PNG'
     },
     {
       titulo: 'Coelho Polonês',
@@ -37,7 +37,7 @@ let dados = [
       cuidados: 'Requer escovação frequente para evitar nós na pelagem.',
       personalidade: 'Calmo e gentil.',
       link: 'https://en.wikipedia.org/wiki/Polish_rabbit',
-      imagem: 'img/polones.png'
+      imagem: 'img/polones.PNG'
     },
     {
       titulo: 'Coelho Ángora',
@@ -45,7 +45,7 @@ let dados = [
       cuidados: 'Necessita de escovação diária para evitar nós e manter a pelagem bonita.',
       personalidade: 'Calmo e gentil.',
       link: 'https://en.wikipedia.org/wiki/Angora_rabbit',
-      imagem: 'img/angora.png'
+      imagem: 'img/angora.PNG'
     },
     {
       titulo: 'Mini Coelho Lion',
@@ -53,6 +53,6 @@ let dados = [
       cuidados: 'Exige escovação regular para evitar embaraços e manter a pelagem saudável. Também deve ter uma dieta balanceada e espaço para se exercitar.',
       personalidade: 'Afetuoso e brincalhão. Gosta de interação e pode ser muito ativo e curioso.',
       link: 'https://en.wikipedia.org/wiki/Lionhead_rabbit',
-      imagem: 'img/lion.png'
+      imagem: 'img/lion.PNG'
     }
 ];
